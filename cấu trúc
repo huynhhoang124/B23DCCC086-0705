@@ -1,0 +1,13 @@
+/src
+  /components
+    - GhiChu.tsx
+    - DanhSachGhiChu.tsx
+    - FormGhiChu.tsx
+    - TimKiemGhiChu.tsx
+  /styles
+    - style.css
+  - App.tsx
+  - index.tsx
+  - types.ts    
+  - tsconfig.json
+  - package.json
